@@ -1,0 +1,7 @@
+{
+  "name": "bulletinBoard",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
